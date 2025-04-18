@@ -1,2 +1,2 @@
 # cloud-dynasty-coursework
-study materials, notes, and practice exercises for the AWS certified cloud practitioner certification (dev. community mauá)
+study materials, notes, and practice exercises for the AWS certified cloud practitioner certification (academic entity: _dev. community mauá_)
